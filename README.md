@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Giuseppe Buompane
 
-<!--
-**Giusebuompane/Giusebuompane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me apasiona entender el comportamiento detrás de los números y convertir datos en información útil para la toma de decisiones. Tengo experiencia en análisis exploratorio, visualización de datos y optimización de procesos, y manejo herramientas clave como Python, SQL y Power BI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Tecnologías y herramientas que utilizo
+
+- 🐍 Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, GeoPandas)  
+- 🧠 Análisis estadístico (Pruebas de normalidad, ANOVA, Kruskal-Wallis, correlaciones)  
+- 🗃 SQL para extracción y análisis de datos  
+- 📊 Power BI para dashboards interactivos  
+- 🔄 ETL y limpieza de datos
+
+---
+
+## 📫 Contacto
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/giusebuompane/)
+
