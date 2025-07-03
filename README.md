@@ -1,16 +1,19 @@
-# 👋 ¡Hola! Soy Giuseppe Buompane
+👋 Hola, soy Giuseppe Buompane
+Analista de datos con experiencia en análisis exploratorio, visualización y optimización de procesos. Mi pasión es transformar datos complejos en insights accionables que impulsan la toma de decisiones estratégicas. Domino Python, SQL y Power BI, y cuento con sólidos conocimientos en estadística aplicada y procesos ETL.
 
-Me apasiona entender el comportamiento detrás de los números y convertir datos en información útil para la toma de decisiones. Tengo experiencia en análisis exploratorio, visualización de datos y optimización de procesos, y manejo herramientas clave como Python, SQL y Power BI.
+🚀 Sobre Mí y Mi Enfoque
+Me especializo en desentrañar el valor oculto en los datos para contar historias claras y generar un impacto directo en los resultados del negocio. Mi enfoque se centra en la eficiencia y la precisión, asegurando que cada análisis se traduzca en soluciones prácticas y medibles.
 
----
+🛠 Habilidades Técnicas
+Lenguajes y Librerías: Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, GeoPandas)
 
-## 💡 Tecnologías y herramientas que utilizo
+Bases de Datos: SQL (consultas avanzadas, manipulación y análisis de datos)
 
-- 🐍 Python (Pandas, NumPy, Seaborn, Matplotlib, Plotly, GeoPandas)  
-- 🧠 Análisis estadístico (Pruebas de normalidad, ANOVA, Kruskal-Wallis, correlaciones)  
-- 🗃 SQL para extracción y análisis de datos  
-- 📊 Power BI para dashboards interactivos  
-- 🔄 ETL y limpieza de datos
+Visualización de Datos: Power BI (diseño de dashboards interactivos, storytelling con datos, DAX)
+
+Análisis Estadístico: Pruebas de normalidad, ANOVA, Kruskal-Wallis, regresión, correlaciones, inferencia estadística.
+
+Gestión de Datos: Procesos ETL (extracción, transformación y carga de datos), limpieza y preparación de datos.
 
 ---
 
