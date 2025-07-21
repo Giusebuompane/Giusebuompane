@@ -23,5 +23,5 @@ Me especializo en desentrañar el valor oculto en los datos para contar historia
 
 ## 📫 Contacto
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/giusebuompane/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/giuseppebuompane/)
 
