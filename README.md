@@ -83,7 +83,6 @@ Trabajo con **Claude Code** como entorno de desarrollo con agentes y lo adapto a
 ## 🎓 Formación y certificaciones
 
 - **Bootcamp en Data Analytics**, IT Academy (Barcelona Activa), 2024–2025
-- **Licenciatura en Economía**, Università degli Studi di Napoli Parthenope
 - **Snowflake Hands-On Essentials: Data Warehousing Workshop**, Snowflake, 2025
 - **Databricks Fundamentals**, Databricks, 2025
 - **Formación en Microsoft Fabric y Azure** (lakehouse, Delta Lake), Microsoft Learn, 2025
