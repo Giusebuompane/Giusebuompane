@@ -8,7 +8,7 @@ Trabajo a diario con **agentes de IA** para automatizar ese trabajo: analizar mo
 
 He trabajado con empresas de sectores muy distintos: salud y estética, peluquería, comercio electrónico, hostelería y restauración, asesoría contable y financiera, y recursos humanos. Cada proyecto me obliga a entender un negocio y un modelo de datos nuevos.
 
-En cada proyecto me reúno con los clientes para entender qué necesitan, acordar los KPI y explicar los resultados a personas que no son técnicas. Antes de dedicarme a los datos trabajé más de diez años en atención al cliente y operaciones en entornos internacionales, soy licenciado en Economía y hablo italiano, español, inglés y portugués, así que trabajo con clientes de varios países sin problema.
+En cada proyecto me reúno con los clientes para entender qué necesitan, acordar los KPI y explicar los resultados a personas que no son técnicas. Hablo italiano, español, inglés y portugués, así que trabajo con clientes de varios países sin problema.
 
 ### En cifras
 
