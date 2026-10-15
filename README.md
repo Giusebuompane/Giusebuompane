@@ -1,12 +1,14 @@
 # 👋 Hola, soy Giuseppe Buompane
 
-**Ingeniero de datos y analista BI** · ETL · Migraciones de datos · SQL · Python · Power BI · IA aplicada a datos (agentes, MCP, automatización)
+**Analista de datos (Data Engineering & BI)** · ETL · Migraciones de datos · SQL · Python · Power BI · Snowflake · Microsoft Fabric · IA aplicada a datos (agentes, MCP, automatización)
 
 Llevo los datos de principio a fin: los extraigo de donde estén (ERP, bases de datos, APIs, ficheros), los transformo con Python y SQL, los cargo donde tienen que estar y los convierto en informes que se actualizan solos. Me gusta entender bien el modelo de origen antes de tocar nada y no doy un dato por bueno hasta que cuadra con la realidad.
 
 Trabajo a diario con **agentes de IA** para automatizar ese trabajo: analizar modelos de datos que no conozco, preparar migraciones, escribir y revisar ETL, consultas SQL y medidas DAX, y validar los resultados. La IA me hace ir más rápido, pero cada cifra la sigo comprobando contra los datos reales.
 
 He trabajado con empresas de sectores muy distintos: salud y estética, peluquería, comercio electrónico, hostelería y restauración, asesoría contable y financiera, y recursos humanos. Cada proyecto me obliga a entender un negocio y un modelo de datos nuevos.
+
+En cada proyecto me reúno con los clientes para entender qué necesitan, acordar los KPI y explicar los resultados a personas que no son técnicas. Antes de dedicarme a los datos trabajé más de diez años en atención al cliente y operaciones en entornos internacionales, soy licenciado en Economía y hablo italiano, español, inglés y portugués, así que trabajo con clientes de varios países sin problema.
 
 ### En cifras
 
@@ -24,6 +26,10 @@ He trabajado con empresas de sectores muy distintos: salud y estética, peluquer
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -67,9 +73,20 @@ Trabajo con **Claude Code** como entorno de desarrollo con agentes y lo adapto a
 - **Visualización de Datos:** Power BI Desktop y Power BI Service (dashboards interactivos, storytelling con datos, DAX, Power Query, modelado en estrella, integración de varias fuentes, proyectos PBIP/TMDL versionados en Git, publicación con gateway de datos y refresco programado), gráficos y mapas con Matplotlib, Seaborn, Plotly y GeoPandas
 - **IA Generativa y Agentes:** Claude Code (skills, agentes y subagentes, hooks, plugins, servidores MCP), automatización de flujos de trabajo con agentes de IA, prompt y context engineering, revisión y validación de código, SQL y DAX generados por IA, generación de datos sintéticos y anonimización
 - **Análisis Estadístico:** EDA, pruebas de normalidad (Shapiro-Wilk), ANOVA, Kruskal-Wallis, pruebas post-hoc (Tukey HSD, Dunn), correlaciones (Pearson, Spearman, Kendall), regresión, inferencia estadística
+- **Cloud y Plataformas de Datos:** Snowflake (stages, COPY INTO, JSON/VARIANT, Streamlit), Databricks, Microsoft Fabric (lakehouse, Delta Lake, publicación de informes), Microsoft Azure y Google Cloud Storage
 - **Integración de APIs:** Consumo de APIs REST (paginación, autenticación con API key y OAuth2) y carga de los datos en un data warehouse
 - **Servidores y Automatización:** Windows Server, SQL Server, Programador de tareas de Windows, PowerShell, On-premises Data Gateway, Microsoft Entra ID y acceso remoto desatendido
 - **Metodología y Control de Versiones:** Scrum (sprints, Kanban, retrospectivas), Git y GitHub
+
+---
+
+## 🎓 Formación y certificaciones
+
+- **Bootcamp en Data Analytics**, IT Academy (Barcelona Activa), 2024–2025
+- **Licenciatura en Economía**, Università degli Studi di Napoli Parthenope
+- **Snowflake Hands-On Essentials: Data Warehousing Workshop**, Snowflake, 2025
+- **Databricks Fundamentals**, Databricks, 2025
+- **Formación en Microsoft Fabric y Azure** (lakehouse, Delta Lake), Microsoft Learn, 2025
 
 ---
 
